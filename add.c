@@ -2,7 +2,7 @@
 
 int main() {
     // Declare variables to store the two numbers
-    double num1, num2;
+    double num1=10, num2;
 
     // Prompt the user to enter the first number
     printf("Enter the first number: ");
