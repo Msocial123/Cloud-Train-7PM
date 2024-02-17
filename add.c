@@ -19,6 +19,7 @@ int main() {
 
     // Display the result
     printf("Result: %.2lf + %.2lf = %.2lf\n", num1, num2, sum);
+    printf("Addition of two numbers",sum);
 
     return 0;
 }
