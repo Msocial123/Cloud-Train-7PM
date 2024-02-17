@@ -15,7 +15,7 @@ int main() {
     scanf("%lf", &num2);
 
     // Perform addition
-    double sum = num1 + num2;
+    double sum = num1=10.0 + num2=20.0;
     sum = num1 + num2 ;
 
     // Display the result
