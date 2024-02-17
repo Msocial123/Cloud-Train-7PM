@@ -15,7 +15,11 @@ int main() {
     scanf("%lf", &num2);
 
     // Perform addition
+<<<<<<< HEAD
     double sum = num1=10.0 + num2=20.0;
+=======
+    int sum= num1=30.0 + num2=40.0;
+>>>>>>> Insurance
     sum = num1 + num2 ;
 
     // Display the result
