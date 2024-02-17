@@ -16,6 +16,7 @@ int main() {
 
     // Perform addition
     double sum = num1 + num2;
+    sum = num1 + num2 ;
 
     // Display the result
     printf("Result: %.2lf + %.2lf = %.2lf\n", num1, num2, sum);
